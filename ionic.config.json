@@ -1,0 +1,7 @@
+{
+  "name": "My Fund Source",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
